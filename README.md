@@ -12,6 +12,7 @@ I'm a french student in cyber-security, but I'm also working at Puy du Fou 🤺 
 - LUA
 - C# (with Unity 3D)
 - C (mainly for Arduino controllers)
+- MySQL & MongoDB
 
 ## 📚 What I'm learning :
 - Vue.js

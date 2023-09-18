@@ -1,17 +1,20 @@
 # loulou123546 / Louis Maillard
 
-I'm a french student in cyber-security, but I'm also working at Puy du Fou 🤺 🐎 as DevSecOps engineer.  
+I'm a french student in cyber-security, but I'm also working at Puy du Fou 🤺 🐎 as DevSecOps engineer.    
+
 **Actively looking for an foreign internship**
 
 ---
 
 ## 🖥️ Tools and languages I know :
-- HTML/CSS/JS
-- Tailwindcss / Vue.js / Svelte / Astro
-- Node.js
-- Rust
-- LUA
-- Java and Android development
+- 🌍 HTML/CSS/JS
+- ✨ Tailwindcss / Vue.js / Svelte / Astro
+- ⭐️ Node.js
+- 🦀 Rust
+- ☁️ AWS Cloud and Terraform
+- 🦊 Gitlab CI/CD and DevSecOps toolchain
+- 🌕 LUA
+- ☕️ Java and Android development
 - C# (with Unity 3D)
 - C
 - MySQL & MongoDB
@@ -22,9 +25,10 @@ I'm a french student in cyber-security, but I'm also working at Puy du Fou 🤺 
 
 ## 🚀 Portfolio :
 - Old projects are now resiliated, sorry
+- Contributing at @FluffEvent *(private repository)* : https://fluffevent.fr/
 - https://www.linkedin.com/in/louis-maillard-973589197/
 
-## 🤙 You can contact me :
+## 📞 You can contact me :
 - louis.maillard@protonmail.com
 - Discord : @loulou123546#5707
 
